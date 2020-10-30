@@ -1,2 +1,3 @@
-# scripts
-This is where we create and put scripts for the lego game itself.
+# Scripts
+
+Random scripts we make for random lego games.
